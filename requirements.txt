@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+pycountry
+playwright
+pandas
+pdfplumber
+tabula
+camelot-py[cv]
